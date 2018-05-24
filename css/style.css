@@ -1,0 +1,16 @@
+.input-field {
+  margin: 5px 0px 5px 0px;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+button {
+  margin: 5px 0px 20px 0px;
+}
+
+form, #bio {
+  margin: 10px 0px 10px 0px;
+  
+}
